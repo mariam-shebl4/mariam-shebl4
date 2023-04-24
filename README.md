@@ -7,8 +7,8 @@
    Hey 👋I'm Mariam
 </h1>
 
-👩🏻 I'm Mariam, a 23 years old web developer from Egypt.
-👩🏻‍💻 I'm a frontend web developer
+- 👩🏻 I'm Mariam, a 23 years old web developer from Egypt.
+- 👩🏻‍💻 I'm a frontend web developer
 
 - 🔭 I’m currently working on  React Projects
 - 🌱 I’m currently learning  React, nextjs
