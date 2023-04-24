@@ -10,4 +10,5 @@ I'm Mariam, a 23 years old web developer from Egypt.
 - 🌱 I’m currently learning  React, nextjs
 - 📫 How to reach me: **sheblmariam4@gmail.com**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-shebl4&show_icons=true&locale=en&layout=compact" alt="mariam-shebl4" /></p>
 
