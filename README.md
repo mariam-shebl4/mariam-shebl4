@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/mariamshebl/mariamshebl/master/name.svg" alt="Mariam shebl" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mariam+Shebl....;Nice+to+meet+you!&center=true&size=30">
+  </a>
 </h1>
-
 ### Hi there 👋
 
 <!--
